@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img  src="https://github-readme-stats.vercel.app/api?username=salsabeeljama&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=salsabeeljamal&&show_icons=true&theme=radical"/>
 
 <!--
 **salsabeeljamal/salsabeeljamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
